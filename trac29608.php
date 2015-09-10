@@ -1,4 +1,4 @@
-<?php // (C) Copyright Bobbing Wide 2014,2015
+<?php // (C) Copyright Bobbing Wide 2014, 2015
 /*
 Plugin Name: TRAC 29608    
 Plugin URI: http://www.oik-plugins.com/oik-plugins/oik
@@ -6,6 +6,8 @@ Description: Test TRAC #29608 incl. shortcode test function clone
 Version: 0.0.1 
 Author: bobbingwide
 Author URI: http://www.oik-plugins.com/author/bobbingwide
+Text Domain: trac29608
+Domain Path: /languages/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

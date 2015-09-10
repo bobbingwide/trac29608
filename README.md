@@ -103,11 +103,12 @@ It also delivers a very flaky shortcode [noautop]	which will probably be removed
 1. trac29608 in action
 
 ## Upgrade Notice 
-# 1.0 
-Please upgrade normally.
+# 0.0.1 
+This plugin depends upon oik and oik-css. Please install these plugins first.
+
 
 ## Changelog 
-# 1.0 
+# 0.0.1 
 * Added: New plugin
 
 ## Further reading 
